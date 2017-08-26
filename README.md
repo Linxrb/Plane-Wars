@@ -3,6 +3,6 @@
 
 #### 更新...
 
-![](/imgs/show(1).png)
-![](/imgs/show(2).png)
-![](/imgs/show(3).png)
+![](https://github.com/Linxrb/Plane-Wars/blob/master/imgs/show%20(1).png)
+![](https://github.com/Linxrb/Plane-Wars/blob/master/imgs/show%20(2).png)
+![](https://github.com/Linxrb/Plane-Wars/blob/master/imgs/show%20(3).png)
